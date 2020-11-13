@@ -51,11 +51,15 @@ const App = () => {
 export default App;
 const styles = StyleSheet.create({
     banner: {
-        color: 'purple',
+        color: '#00363a',
         fontWeight: 'bold',
         fontSize: 40,
         textAlign: 'center',
-        backgroundColor: '#ffc1e3'
+        backgroundColor: '#b6ffff',
+        borderWidth: 5,
+        borderRadius: 5,
+        borderColor: '#00363a',
+        margin: 20,
     },
     searchBar: {
         backgroundColor: "#eceff1",
