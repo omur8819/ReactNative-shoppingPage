@@ -57,9 +57,10 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         backgroundColor: '#b6ffff',
         borderWidth: 5,
-        borderRadius: 5,
+        borderRadius: 15,
         borderColor: '#00363a',
         margin: 20,
+        padding: 10,
     },
     searchBar: {
         backgroundColor: "#eceff1",
