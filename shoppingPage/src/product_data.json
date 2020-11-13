@@ -1,79 +1,113 @@
-[
-    {
+[{
         "id": 0,
-        "title": "Xiaomi Mi True Wireless Earbuds",
-        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
-        "price": "₺134,77",
+        "title": "1080P Business Webcam with Dual Microphone",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61q9muyx%2BRL._AC_SL1500_.jpg",
+        "price": "$39,99",
         "inStock": true
     },
     {
         "id": 1,
-        "title": "General Mobile GM 20",
-        "imgURL": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC._SR180,230.jpg",
-        "price": "₺1.810,21",
+        "title": "JBL Charge 4 Waterproof Wireless Bluetooth Speaker",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61dVMfu-lHL._AC_SL1024_.jpg",
+        "price": "$31,90",
         "inStock": true
     },
     {
         "id": 2,
-        "title": "Philips 58PUS8505/62 The One",
-        "imgURL": "https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg",
-        "price": "₺6.992,25",
-        "inStock": false
+        "title": "SanDisk 128GB microSD Memory Card",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/815cRpgAN3L._AC_SX679_.jpg",
+        "price": "$23,95",
+        "inStock": true
     },
     {
         "id": 3,
-        "title": "LG 49UM7100PLB Ultra HD 4K",
-        "imgURL": "https://m.media-amazon.com/images/I/71gAldY8eGL._AC._SR360,460.jpg",
-        "price": "₺4.614,38",
+        "title": "PlayStation 4 Console - 1TB Slim Edition",
+        "imgURL": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5850/5850905_sd.jpg",
+        "price": "$362,49",
         "inStock": true
     },
     {
         "id": 4,
+        "title": "Logitech G502 Hero Gaming Mouse",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51IOmsWQVAL._AC_SX679_.jpg",
+        "price": "$31,90",
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "title": "Xiaomi Mi True Wireless Earbuds",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "price": "$19,77",
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "title": "General Mobile GM 20",
+        "imgURL": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC._SR180,230.jpg",
+        "price": "$239,99",
+        "inStock": true
+    },
+    {
+        "id": 7,
+        "title": "Philips 58PUS8505/62 The One",
+        "imgURL": "https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg",
+        "price": "$932,26",
+        "inStock": false
+    },
+    {
+        "id": 8,
+        "title": "LG 49UM7100PLB Ultra HD 4K",
+        "imgURL": "https://m.media-amazon.com/images/I/71gAldY8eGL._AC._SR360,460.jpg",
+        "price": "$617,38",
+        "inStock": true
+    },
+    {
+        "id": 9,
         "title": "Samsung Galaxy M31 SM-M315F",
         "imgURL": "https://m.media-amazon.com/images/I/71mUIp9oCXL._AC._SR360,460.jpg",
         "price": "₺2.995,80",
         "inStock": true
     },
     {
-        "id": 5,
+        "id": 10,
         "title": "Apple AirPods Series 2",
         "imgURL": "https://m.media-amazon.com/images/I/51XanmiXw0L._AC._SR360,460.jpg",
-        "price": "₺1.299,00",
+        "price": "$399,99",
         "inStock": true
     },
     {
-        "id": 6,
+        "id": 11,
         "title": "Lenovo Tab M10 Plus",
         "imgURL": "https://m.media-amazon.com/images/I/81JR-A35D0L._AC._SR360,460.jpg",
         "price": "₺2.496,50",
         "inStock": false
     },
     {
-        "id": 7,
+        "id": 12,
         "title": "Xiaomi Redmi 20000 Mah",
         "imgURL": "https://images-na.ssl-images-amazon.com/images/I/41vVdTukkgL._AC_SX522_.jpg",
-        "price": "₺134,70",
+        "price": "$332,95",
         "inStock": false
     },
     {
-        "id": 8,
+        "id": 13,
         "title": "Xiaomi Mijia Smart Home 360",
         "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31G-rIrW9zL._AC_UL320_SR226,320_.jpg",
-        "price": "₺269,73",
+        "price": "$37,88",
         "inStock": true
     },
     {
-        "id": 9,
+        "id": 14,
         "title": "Xiaomi Mi Box S 4K Ultra HD",
         "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31sNKUGwNUL._AC_.jpg",
-        "price": "₺478,53",
+        "price": "$63,99",
         "inStock": true
     },
     {
-        "id": 10,
+        "id": 15,
         "title": "Haylou Solar LS-5 Smartwatch",
         "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51kfZ4W9YSL._AC_SX522_.jpg",
-        "price": "₺296,00",
+        "price": "$39,99",
         "inStock": true
     }
 ]
