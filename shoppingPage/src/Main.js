@@ -1,4 +1,3 @@
-// Overall - 1
 import React, { useEffect, useState } from 'react';
 import { SafeAreaView, View, Text, FlatList, StyleSheet, Alert, TextInput } from 'react-native';
 import proudctData from './product_data.json'
@@ -12,7 +11,7 @@ const App = () => {
     const renderListItem = ({ item }) => <ProductCard product={item} />
 
     useEffect(() => {
-        // Alert.alert("Trend Shop", "Welcome, have a nice shopping..");
+        Alert.alert("Trend Shop", "Welcome, have a nice shopping...");
         setDisplayList(proudctData)
     }, [])
 
@@ -64,7 +63,6 @@ const styles = StyleSheet.create({
     },
     searchBar: {
         backgroundColor: "#eceff1",
-        // padding: 5,
         margin: 10,
         borderRadius: 10
     },
