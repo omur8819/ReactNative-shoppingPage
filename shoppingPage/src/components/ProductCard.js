@@ -2,6 +2,17 @@ import React from 'react';
 import { View, Text, Image, StyleSheet, Dimensions } from 'react-native';
 
 const ProductCard = ({ product }) => {
+
+    const inStock = () => {
+        if(product.inStock === true)
+            return null
+        else 
+            return (
+                <Text>Not in stock</Text>
+            )
+        
+    }
+
     return (
         <View style={styles.container}>
             <Image
@@ -11,6 +22,7 @@ const ProductCard = ({ product }) => {
             <View style={{ flex: 1, justifyContent: 'space-between' }}>
                 <Text>{product.title}</Text>
                 <Text style={{ fontWeight: 'bold' }}>{product.price}</Text>
+                <Text>{inStock()}</Text>
             </View>
         </View>
     )
