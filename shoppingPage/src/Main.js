@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { SafeAreaView, View, Text, FlatList, StyleSheet, Alert, TextInput } from 'react-native';
-import proudctData from './product_data.json'
+import productData from './product_data.json'
 import { ProductCard } from './components'
 const App = () => {
 
@@ -12,11 +12,11 @@ const App = () => {
 
     useEffect(() => {
         Alert.alert("Trend Shop", "Welcome, have a nice shopping...");
-        setDisplayList(proudctData)
+        setDisplayList(productData)
     }, [])
 
     useEffect(() => {
-        const filteredValue = proudctData.filter(item => {
+        const filteredValue = productData.filter(item => {
             const text = searchValue.toUpperCase();
             const productTitle = item.title.toUpperCase();
             return productTitle.indexOf(text) > -1;
